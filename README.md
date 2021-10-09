@@ -1,30 +1,30 @@
 # RedCross-Inventory
 This is the red cross inventory handle part
 
-### Abount the Project
+### About the Project
 <p align="center">
-    <img src="Images/insert.png" alt="insert">
+    <img src="images/insert.png" alt="insert">
 </p>
 <p align="center">
-    <img src="Images/view all.png" alt="view all" >
+    <img src="images/view all.png" alt="view all" >
 </p>
 <p align="center">
-    <img src="Images/print_all.png" alt="print all">
+    <img src="images/print_all.png" alt="print all">
 </p>
 <p align="center">
-    <img src="Images/search.png" alt="search">
+    <img src="images/search.png" alt="search">
 </p>
 <p align="center">
-    <img src="Images/stock.png" alt="stock" >
+    <img src="images/stock.png" alt="stock" >
 </p>
 <p align="center">
-    <img src="Images/stock_update.png" alt="stock update">
+    <img src="images/stock_update.png" alt="stock update">
 </p>
 <p align="center">
-    <img src="Images/report.png" alt="report" >
+    <img src="images/report.png" alt="report" >
 </p>
 <p align="center">
-    <img src="Images/report_print.png" alt="report print">
+    <img src="images/report_print.png" alt="report print">
 </p
 
 ### IDEs and Technologies 
