@@ -1,0 +1,25 @@
+*{
+  		box-sizing: border-box;
+	}
+	
+	h1{
+		color:#E42217;
+		font-size:70px;
+		text-align:center;
+		margin-top:50px;
+	}
+	
+	button{
+			background-color: red;
+			border: none;
+			color:white;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 15px;
+  			font-weight: bold;
+  			padding:10px 30px;
+  			justify-content: center;
+  			align-items: center;
+  			margin-top:50px;
+		}

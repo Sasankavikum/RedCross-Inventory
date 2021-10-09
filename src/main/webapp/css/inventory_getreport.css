@@ -1,0 +1,61 @@
+
+		button{
+			background-color: red;
+			border: none;
+			color:white;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 15px;
+  			font-weight: bold;
+  			padding:10px 30px;
+  			justify-content: center;
+  			align-items: center;
+		}
+		
+		.btnback{
+			background-color: red;
+			border: none;
+			color:white;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 20px;
+  			font-weight: bold;
+  			justify-content: center;
+  			padding:10px 50px;
+  			align-items: center;
+  			margin-bottom:20px;
+		}
+		
+		.btnget{
+			background-color: red;
+			border: none;
+			color:white;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 20px;
+  			font-weight: bold;
+  			width:100%;
+  			padding:10px 100px;
+  			justify-content: center;
+  			align-items: center;
+  			margin-top:20px;
+		}
+		
+		h1{
+			color:#E42217;
+			font-size:40px;
+			text-align:center;
+			margin-top:20px;
+		}
+		
+		table{
+			width:100%;
+			font-family: Arial, Helvetica, sans-serif;
+  			border-collapse: collapse;
+  			font-size:20px;
+ 			text-align:center;
+		}
+		

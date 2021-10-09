@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+
+fieldset{
+	
+	margin:50px 20px 20px 20px;
+	width: 40%;
+	border-color:black;
+	 border-radius: 10px;
+	color:white;
+	background-color:black;
+}

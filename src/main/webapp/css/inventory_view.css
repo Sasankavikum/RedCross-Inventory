@@ -1,0 +1,58 @@
+
+		
+		
+		h1{
+			color:#E42217;
+			font-size:50px;
+			text-align:center;
+			margin-top:20px;
+		}
+		
+		table{
+			width:100%;
+			font-family: Arial, Helvetica, sans-serif;
+  			border-collapse: collapse;
+  			font-size:20px;
+ 			text-align:center;
+		}
+		
+	.btnget{
+		border: none;
+		color:white;
+ 		text-align: center;
+  		text-decoration: none;
+  		display: inline-block;
+ 		font-size: 15px;
+  		font-weight: bold;
+  		padding:10px 30px;
+  		justify-content: center;
+  		align-items: center;
+		width:100%;	
+		margin-top:40px;
+		margin-bottom:50px;
+		display: none;
+	}
+		
+		
+		input[type=text], select{
+  		width: 50%;
+  		padding: 12px 30px;
+  		border: 1px solid #ccc;
+  		border-radius: 4px;
+  		resize: vertical;
+  		margin-bottom:5px;
+  		
+		}
+		
+		input[type=submit] {
+  		background-color: red;
+  		color: white;
+  		padding: 12px 30px;
+ 		border: none;
+  		border-radius: 4px;
+  		cursor: pointer;
+  		width:30%;
+  		margin-bottom:5px;
+	}
+	
+	

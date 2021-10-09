@@ -1,0 +1,30 @@
+h1{
+			color:#E42217;
+			font-size:50px;
+			text-align:center;
+			margin-top:20px;
+		}
+		
+		table{
+			width:100%;
+			font-family: Arial, Helvetica, sans-serif;
+  			border-collapse: collapse;
+  			font-size:20px;
+ 			text-align:center;
+		}
+		button{
+			background-color: red;
+			border: none;
+			color:white;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 15px;
+  			font-weight: bold;
+  			padding:10px 30px;
+  			justify-content: center;
+  			align-items: center;
+  			margin-bottom:10px;
+		}
+		
+   
